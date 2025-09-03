@@ -40,7 +40,8 @@
   --------------------------
 
 # 작업 분할 구조 (WBS)
-<img width="1082" height="728" alt="캡처" src="https://github.com/user-attachments/assets/cef48303-a287-44d4-a36f-237b23890ed1" />
+<img width="953" height="633" alt="WBS" src="https://github.com/user-attachments/assets/d6eb3bfe-604d-4fb9-8ade-89ec19814f5f" />
+
 
 
 ## 단계별 작업 구성
